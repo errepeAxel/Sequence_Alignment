@@ -1,2 +1,5 @@
-# Sequence_Alignment
-This repo contains data and code used in the realization of the second report of the module "Sequence Alignment"
+# Sequence Alignment
+Content:
+- Using bwa to index the _E.coli_ and _Mus musculus_ genome.
+- Lecture alignment
+- Quality analysis of the alignment
